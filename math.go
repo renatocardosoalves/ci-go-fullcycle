@@ -9,3 +9,7 @@ func main() {
 func soma(x, y int) int  {
 	return x + y
 }
+
+func subtracao(x, y int) int  {
+	return x - y
+}
